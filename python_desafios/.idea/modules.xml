@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AutomateBoring/.idea/AutomatBoring.iml" filepath="$PROJECT_DIR$/../AutomateBoring/.idea/AutomatBoring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Miscelanea/.idea/Miscelanea.iml" filepath="$PROJECT_DIR$/../Miscelanea/.idea/Miscelanea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SentDex/.idea/SentDex.iml" filepath="$PROJECT_DIR$/../SentDex/.idea/SentDex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/python_desafios.iml" filepath="$PROJECT_DIR$/.idea/python_desafios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python_teste/.idea/python_teste.iml" filepath="$PROJECT_DIR$/../python_teste/.idea/python_teste.iml" />
+    </modules>
+  </component>
+</project>

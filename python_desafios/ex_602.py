@@ -1,0 +1,5 @@
+n=input('Introduza um qualquer valor: ')
+print('Introduziu uma letra maiúscula', n.isupper())
+print('Introduziu um número ou uma letra', n.isalnum())
+print('Introduziu um número decimal', n.isdecimal())
+print('Introduziu uma letra minúscula', n.islower())
