@@ -11,6 +11,5 @@ print(tickerDf)
 #print(data)
 """
 Isto é um teste do Github
-
+Merda para isto
 """
-
